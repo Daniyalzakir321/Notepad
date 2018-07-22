@@ -1,0 +1,32 @@
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.exe
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.pdb
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\bin\Debug\Notepad_.exe.manifest
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\bin\Debug\Notepad_.application
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\bin\Debug\Notepad_.exe
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\bin\Debug\Notepad_.pdb
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Form1.resources
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Form2.resources
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Form3.resources
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Properties.Resources.resources
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.exe.manifest
+C:\Users\zaeem\Documents\Visual Studio 2010\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.application
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.exe
+E:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Projects\Notepad_\Notepad_\obj\x86\Debug\Notepad_.pdb
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.exe
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.pdb
+E:\Project of to write in cd\Notepad_\Notepad_\bin\Debug\Notepad_.exe.manifest
+E:\Project of to write in cd\Notepad_\Notepad_\bin\Debug\Notepad_.application
+E:\Project of to write in cd\Notepad_\Notepad_\bin\Debug\Notepad_.exe
+E:\Project of to write in cd\Notepad_\Notepad_\bin\Debug\Notepad_.pdb
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Form1.resources
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Form2.resources
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Form3.resources
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.Properties.Resources.resources
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.exe.manifest
+E:\Project of to write in cd\Notepad_\Notepad_\obj\x86\Debug\Notepad_.application
