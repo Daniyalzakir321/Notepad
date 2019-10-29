@@ -27,4 +27,4 @@
 ### 5.View
 - View Help
 
- [IMAGE]()
+ [IMAGE](https://github.com/Daniyalzakir321/Notepad/blob/master/Image%20Notepad.png)
